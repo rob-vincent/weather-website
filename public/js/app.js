@@ -1,5 +1,3 @@
-console.log('Client side JavaScript file is loaded!');
-
 // This is a client-side request and cannot be used in node
 /*
 fetch('http://puzzle.mead.io/puzzle')
